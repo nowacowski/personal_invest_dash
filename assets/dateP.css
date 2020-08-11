@@ -1,0 +1,49 @@
+div {
+  border-radius: 15px;
+}
+
+.SingleDatePickerInput {
+  border: 0px;
+  background-color: #DCDCDC;
+}
+.DateInput {
+  border-radius: 15px;
+}
+.DateInput_input {
+  background: #A9A9A9;
+  color: #F8F8FF;
+}
+.DateInput_input__focused {
+  background: #FFA500;
+}
+.CalendarDay__selected:hover {
+  background: #FFA500;
+  border: #FFA500;
+}
+.CalendarDay__selected {
+  background: #FFA500;
+  border: #FFA500;
+}
+
+
+.rc-slider-track {
+  background-color: #FFA500;
+}
+.rc-slider-dot-active {
+  border-color: #FFA500;
+}
+.rc-slider-handle {
+  border-color: #FFA500;
+}
+.rc-slider-handle:focus {
+  border-color: #FFA500;
+}
+
+
+.Select--multi .Select-value {
+  color: #000;
+  background-color: #f5af2fba;
+}
+.Select-control {
+  background-color: #DCDCDC;
+}
